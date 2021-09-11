@@ -20,8 +20,4 @@ System and Software Architect for Embedded and Automotive systems, Amateur Radio
 
 I use my personal github to publish my hobby projects and experiments in the hope that this will be useful for someone.
 
-I'm currently trying to see where all I can program using the Rust programming language. My current projects are
-
-1. Cyclone DDS Rust binding
-2. Software Defined Radio on STM32 using Rust
-
+I'm currently trying to see where all I can program using the Rust programming language. I've taken a year off from the Corporate world to build something new that will be announced towards the end of 2021.
