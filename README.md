@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with improving test-cases for https://github.com/sjames/cyclonedds-rs
-- 💬 Ask me about Sailing in India, Rust programming, C programming, Linux, STM32
+- 💬 Ask me about Sailing in India, Rust programming, C programming, Linux, STM32, EV Charging, ISO15118.
 - 📫 How to reach me: email, linkedIn, twitter
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: 
