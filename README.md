@@ -1,23 +1,8 @@
 ### Sojan James
 
-<!--
-**sjames/sjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on building the Sabaton Automotive Software platform (https://github.com/sabaton-rs)
-- 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with improving test-cases for https://github.com/sjames/cyclonedds-rs
-- 💬 Ask me about Sailing in India, Rust programming, C programming, Linux, STM32, EV Charging, ISO15118.
-- 📫 How to reach me: email, linkedIn, twitter
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: 
--->
-
 - 🔭 I’m currently working on building the Sabaton Automotive Software platform
-- 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with improving test-cases for https://github.com/sjames/cyclonedds-rs
-- 💬 Ask me about Sailing in India, Rust programming, C programming, Linux, STM32
+- 💬 Ask me about Sailing in India, Rust programming, C programming, Linux, STM32, FreeRTOS, threadx
 - 📫 How to reach me: email, linkedIn, twitter
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: 
