@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact:
 
-System and Software Architect for Embedded and Automotive systems, Amateur Radio Enthusiast (VU3CIN) and Sailor in training. An electronics and communication engineer who switched to writing embedded software as a career choice, but keeps in touch with electronics and communication by making it a hobby.
+System and Software Architect for Embedded and Automotive systems, Amateur Radio Enthusiast (VU3CIN) and Recreational sailor. An electronics and communication engineer who switched to writing embedded software as a career choice, but keeps in touch with electronics and communication by making it a hobby.
 
 I use my personal github to publish my hobby projects and experiments in the hope that this will be useful for someone.
 
