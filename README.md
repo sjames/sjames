@@ -1,4 +1,4 @@
-### Sojan James
+### S James
 
 - 💬 Ask me about Sailing in India, Rust programming, C programming, Linux, STM32, FreeRTOS, threadx
 - 📫 How to reach me: email, linkedIn, twitter
